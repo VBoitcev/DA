@@ -57,12 +57,13 @@
 </ul>
 
 ### :book: Мои проекты:
-Мои проекты:
+Мои проекты в рамках повышения квалификации:
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[Поиск мошенников через аналитику данных](https://github.com/DimDolino/Find_the_Thief)|Предобработка данных, создание скрипта поиска "связанных" данных, вывод клиентов, выполнивших ключевое действие.|**Pandas** **Numpy**|
-|[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
-|[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
+|[Анализ мобильного приложения - подсчет метрик и проведение A/B теста](https://github.com/DimDolino/Find_the_Thief)|Подсчет ключевых метрик - CR,ARPU,AOV. Написание функции на Python для обновления метрик. Проведение A/B тестирования, определение статистической значимости и формирование выводов. Написание SQL-запроса для посчета метрик.|**Pandas** **Numpy** **Scipy** **SQL** **Seaborn** **Requests**|
+|[Анализ приложения для доставки еды - A/B тест](https://github.com/DimDolino/Gamedev_analysis)|Проведение A/B тестирования, определение статистической значимости и формирование выводов.|**Pandas** **Numpy** **Scipy** **Seaborn** **Requests**|
+|[Анализ приложения для знакомсв - A/B тест](https://github.com/DimDolino/Gamedev_analysis)|Проведение A/B тестирования, определение статистической значимости и формирование выводов.|**Pandas** **Numpy** **Scipy** **Seaborn** **Requests**|
+|[Анализ e-commerce продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, анализ пользователей и заказов, когортный анализ пользователей и RFM-сегментация.|**Pandas** **Numpy** **Seaborn** **Requests**|
+|Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/vladislav.boitcev/viz/Satisfaction_17032715636050/Dashboard1?publish=yes)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
 
 
