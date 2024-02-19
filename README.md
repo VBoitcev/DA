@@ -10,7 +10,7 @@
   </a>
 </div>
 <h1>
-<div align='center'>
+<div align='center'> 
 <h1>
  Hello, I'm Vladislav
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
