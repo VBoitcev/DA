@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW02ZzAwMDkyc2Y0bmtuZjI2MHM4ZHZsaXc0M2M3dDl5cHlrczgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4lUxBzIOeJd1EA/giphy.gif" width='500'/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW02ZzAwMDkyc2Y0bmtuZjI2MHM4ZHZsaXc0M2M3dDl5cHlrczgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4lUxBzIOeJd1EA/giphy.gif" width='1000'/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/vboitcev">
@@ -10,6 +10,7 @@
   </a>
 </div>
 <h1>
+<div align='center'>
  Hello, I'm Vlad
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
