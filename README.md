@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW02ZzAwMDkyc2Y0bmtuZjI2MHM4ZHZsaXc0M2M3dDl5cHlrczgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4lUxBzIOeJd1EA/giphy.gif" width='700'/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW02ZzAwMDkyc2Y0bmtuZjI2MHM4ZHZsaXc0M2M3dDl5cHlrczgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4lUxBzIOeJd1EA/giphy.gif" width='500'/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/vboitcev">
